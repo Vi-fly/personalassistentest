@@ -1,0 +1,6 @@
+streamlit
+pydantic
+parsedatetime
+python-dotenv
+phidata
+groq
